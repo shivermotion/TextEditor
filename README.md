@@ -1,4 +1,5 @@
 # Jate-Text-Editor
+![00-demo](https://user-images.githubusercontent.com/75548830/152628359-305a9149-95d6-4a6b-9d74-602c65b3bb40.gif)
 
 # Table of Content
 
